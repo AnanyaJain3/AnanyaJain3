@@ -6,7 +6,7 @@
 
 - 🌱 I’m working in **Deep Learning with CNNs, Artificial Intelligence, Database Management Systems, Operating Systems**
 - 🔭 I am exploring Ethical Hacking, and I love Kali 🐉
-- 📱 I am also learning Native IOS Developement.
+- 📱 I am also learning IOS Dev.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ananya.jain310/) 
