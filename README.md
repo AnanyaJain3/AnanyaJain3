@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=AnanyaJain3&icon=6&color=9" alt ="AnanyaJain3" /> </p>
 
-- 🌱 I’m working in **Deep Learning with CNNs, Artificial Intelligence, Database Management Systems, Operating Systems**
+- 🌱 I’m working in **Deep Learning with CNNs, Artificial Intelligence**
 - 🔭 I am exploring Ethical Hacking, and I love Kali 🐉
 - 📱 I am also learning IOS Developement.
 
